@@ -7,3 +7,4 @@ Various scripts for computational chemistry
 
 ## Octopus
 ```octopus_rotation.sh``` Performs several complex-scaled calculations on different values of theta
+```octopus_energies.sh``` Saves the energy contribution from different Octopus calculations
