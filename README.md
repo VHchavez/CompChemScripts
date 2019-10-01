@@ -6,5 +6,7 @@ Various scripts for computational chemistry
 ```qe_electric_field.sh``` Runs a calculation of a 2D slab under electric field
 
 ## Octopus
+
 ```octopus_rotation.sh``` Performs several complex-scaled calculations on different values of theta
+
 ```octopus_energies.sh``` Saves the energy contribution from different Octopus calculations
